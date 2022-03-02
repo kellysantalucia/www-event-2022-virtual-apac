@@ -1,3 +1,3 @@
-# www-event-example
+# OWASP Virtual Global Appsec APAC 2022
 
-## Sample Event Site
+## Event Site
