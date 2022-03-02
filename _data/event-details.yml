@@ -12,7 +12,7 @@ background: APAC_Banner_1200x675.jpeg
 bigheader: true
 bodycolor: fff
 header-text-color: white
-menu-header-color: darkblue
+menu-header-color: black
 overlay: none
 background-width: 1200px
 background-height: 675px
